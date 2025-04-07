@@ -34,7 +34,7 @@ email: "leetaewon@gmail.com"
 description: "Jekyll Resume / CV / vCard / Portfolio and Personal Portfolio by bslthemes"
 author: "이태원"
 baseurl: "/ober" # the subpath of your site, e.g. /blog
-url: "https://github.com/leetaewon" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://leetaewon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%Y-%m-%d"
 
 # paginations & permalinks
